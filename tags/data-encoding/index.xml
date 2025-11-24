@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QR Codex — Smarter QR Codes for the Real World</title>
-    <link>https://qrcodex.net/</link>
-    <description>Recent content on QR Codex — Smarter QR Codes for the Real World</description>
+    <title>Data Encoding on QR Codex — Smarter QR Codes for the Real World</title>
+    <link>https://qrcodex.net/tags/data-encoding/</link>
+    <description>Recent content in Data Encoding on QR Codex — Smarter QR Codes for the Real World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 13:00:00 +0200</lastBuildDate><atom:link href="https://qrcodex.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://qrcodex.net/tags/data-encoding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QR Codes vs. Barcodes: Key Differences, Advantages, and Real-World Applications</title>
       <link>https://qrcodex.net/post/qr-codes-vs-barcodes/</link>
@@ -21,24 +21,6 @@
 &lt;p&gt;Below is a comprehensive, easy-to-understand comparison tailored for modern use cases.&lt;/p&gt;
 &lt;h2 id=&#34;what-are-barcodes&#34;&gt;What Are Barcodes?&lt;/h2&gt;
 &lt;p&gt;A &lt;strong&gt;barcode&lt;/strong&gt; (also called a linear or 1D code) is a series of vertical black lines and spaces of varying widths. It stores information horizontally — in &lt;strong&gt;one dimension&lt;/strong&gt;.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Modern Uses of QR Codes: How They Shape Everyday Life</title>
-      <link>https://qrcodex.net/post/modern-uses-of-qr-codes/</link>
-      <pubDate>Mon, 24 Nov 2025 11:00:00 +0200</pubDate>
-      
-      <guid>https://qrcodex.net/post/modern-uses-of-qr-codes/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;modern-uses-of-qr-codes-how-they-shape-everyday-life&#34;&gt;Modern Uses of QR Codes: How They Shape Everyday Life&lt;/h1&gt;
-&lt;p&gt;QR codes have evolved far beyond their original role in factories. Today, they are everywhere: on restaurant tables, delivery packages, billboards, medical documents, product boxes, and even business cards. The reason is simple — QR codes act as a bridge between the physical and digital worlds, enabling instant access to information with a single scan.&lt;/p&gt;
-&lt;p&gt;Below is a comprehensive overview of how QR codes function across different industries and why they became such an essential tool in the modern digital ecosystem.&lt;/p&gt;
           
           
         
