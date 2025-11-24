@@ -1,0 +1,168 @@
+baseURL = "https://qrcodex.net/"
+languageCode = "en-us"
+title = "QR Codex — Smarter QR Codes for the Real World"
+
+# Если папка темы называется "hugo-clarity", то:
+# theme = "hugo-clarity"
+# Если ты назвал её просто "Clarity", оставь так:
+theme = "Clarity"
+
+# Кол-во постов на странице
+[pagination]
+pagerSize = 10
+
+# Разрешать публикацию будущих дат (полезно для планирования)
+buildFuture = true
+
+# SEO / индексация
+canonifyURLs = true
+enableRobotsTXT = true
+
+# Для поиска (Clarity так просит)
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+################################
+# Markdown / подсветка кода
+################################
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe    = true      # raw HTML в контенте
+hardWraps = false
+xhtml     = false
+
+[markup.highlight]
+codeFences         = true
+guessSyntax        = true
+hl_Lines           = "--"
+lineNoStart        = 1
+lineNos            = true   # иначе номера строк не работают вообще
+lineNumbersInTable = false  # не трогаем, иначе ломаются блоки кода
+noClasses          = false
+tabWidth           = 2
+
+################################
+# Таксономии
+################################
+[taxonomies]
+category = "categories"
+tag      = "tags"
+
+################################
+# Параметры темы Clarity
+################################
+[params]
+# 🔍 Встроенный поиск
+enableSearch = true
+
+# Текст на главной под логотипом
+introDescription = "Create, manage, and track QR codes for books, packaging, business cards, and offline marketing campaigns."
+introURL        = "articles/"   # куда ведёт кнопка под интро (можешь поменять или поставить false)
+
+# SEO-описание и ключевые слова для главной
+description = "QR Codex is a practical resource about QR codes: how to create, design, and track QR codes that actually work in the real world."
+keywords = [
+    "qr codes",
+    "qr code generator",
+    "dynamic qr codes",
+    "trackable qr codes",
+    "qr codes for books",
+    "qr codes for marketing",
+    "qr codes for business",
+    "qrcodex"
+]
+
+# Сколько тегов/категорий показывать в сайдбаре
+numberOfTagsShown = 14
+
+# Где хранятся ресурсы по умолчанию
+usePageBundles = false          # позже можно переключить на true и уйти в page bundles
+
+# Пути к ресурсам (относительно static/)
+imagesDir = "images/"
+iconsDir  = "icons/"
+fontsDir  = "fonts/"
+
+# Фолбэк-картинка для соцсетей (если у поста нет своей)
+fallBackOgImage = "images/thumbnail.png"
+
+# Логотип в хедере
+logo       = "logos/logo.png"
+centerLogo = false              # true — по центру, false — слева
+
+# Настройки кода
+codeMaxLines    = 7
+codeLineNumbers = false         # по умолчанию без номеров строк
+
+# Math (если вдруг понадобится формулы)
+enableMathNotation = false
+
+# В каких секциях лежат статьи блога
+mainSections = ["post"]
+
+# Подписи вида “Figure 1” под картинками — сейчас отключено
+figurePositionShow  = false
+figurePositionLabel = "Figure"
+
+# Мобильное меню (с какой стороны выезжает)
+mobileNavigation = "left"       # или "right"
+
+# Режим темы по умолчанию (юзер всё равно может переключать)
+enforceLightMode = false
+# enforceDarkMode = false        # если захочешь форсить тёмную тему
+
+# Для ld+json и внутренней логики темы
+blogDir = "post"
+
+# Текст в меню выбора языка (если сделаешь мультиязычность)
+languageMenuName = ""
+
+# Комментарии можно глобально выключить, если не нужны
+# comments = false
+
+# Аналитика (оставляю выключенной, заполни при необходимости)
+ga_analytics          = ""      # Google Analytics ID
+google_tag_manager_id = ""      # GTM ID
+
+# Автор сайта (показывается в сайдбаре/под постами)
+[params.author]
+name = "Your Name"
+# photo = "images/author.png"
+
+# Plausible (если захочешь использовать)
+[params.plausible_analytics]
+enable        = false
+websiteDomain = "qrcodex.net"
+
+# Matomo (если когда-нибудь поднимешь)
+[params.matomo_analytics]
+enable        = false
+websiteDomain = "qrcodex.net"
+matomoDomain  = "matomo.qrcodex.net"
+matomoSiteID  = "1"
+
+################################
+# Меню
+################################
+[menu]
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 10
+
+[[menu.main]]
+name   = "Articles"
+url    = "/post/"
+weight = 20
+
+[[menu.main]]
+name   = "QR Use Cases"
+url    = "/categories/qr-use-cases/"
+weight = 30
+
+[[menu.main]]
+name   = "Tags"
+url    = "/tags/"
+weight = 40
