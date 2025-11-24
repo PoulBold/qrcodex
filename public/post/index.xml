@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on QR Codex — Smarter QR Codes for the Real World</title>
+    <link>https://qrcodex.net/post/</link>
+    <description>Recent content in Posts on QR Codex — Smarter QR Codes for the Real World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://qrcodex.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QR Codes vs. Barcodes: Key Differences, Advantages, and Real-World Applications</title>
+      <link>https://qrcodex.net/post/qr-codes-vs-barcodes/</link>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/qr-codes-vs-barcodes/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;qr-codes-vs-barcodes-whats-the-difference-and-which-one-do-you-need&#34;&gt;QR Codes vs. Barcodes: What’s the Difference and Which One Do You Need?&lt;/h1&gt;
+&lt;p&gt;Although both QR codes and barcodes serve one purpose — &lt;strong&gt;identifying or linking information&lt;/strong&gt; — they differ dramatically in structure, capacity, flexibility, and the way scanners read them. Understanding these differences helps businesses choose the right technology for logistics, retail, marketing, and digital interactions.&lt;/p&gt;
+&lt;p&gt;Below is a comprehensive, easy-to-understand comparison tailored for modern use cases.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-barcodes&#34;&gt;What Are Barcodes?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;barcode&lt;/strong&gt; (also called a linear or 1D code) is a series of vertical black lines and spaces of varying widths. It stores information horizontally — in &lt;strong&gt;one dimension&lt;/strong&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Modern Uses of QR Codes: How They Shape Everyday Life</title>
+      <link>https://qrcodex.net/post/modern-uses-of-qr-codes/</link>
+      <pubDate>Mon, 24 Nov 2025 11:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/modern-uses-of-qr-codes/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;modern-uses-of-qr-codes-how-they-shape-everyday-life&#34;&gt;Modern Uses of QR Codes: How They Shape Everyday Life&lt;/h1&gt;
+&lt;p&gt;QR codes have evolved far beyond their original role in factories. Today, they are everywhere: on restaurant tables, delivery packages, billboards, medical documents, product boxes, and even business cards. The reason is simple — QR codes act as a bridge between the physical and digital worlds, enabling instant access to information with a single scan.&lt;/p&gt;
+&lt;p&gt;Below is a comprehensive overview of how QR codes function across different industries and why they became such an essential tool in the modern digital ecosystem.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>The Origin of QR Codes: History, Technology, and How They Work</title>
+      <link>https://qrcodex.net/post/origin-and-technology-of-qr-codes/</link>
+      <pubDate>Tue, 18 Nov 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/origin-and-technology-of-qr-codes/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;the-origin-of-qr-codes-history-technology-and-how-they-work&#34;&gt;The Origin of QR Codes: History, Technology, and How They Work&lt;/h1&gt;
+&lt;p&gt;QR codes have become a universal tool — from restaurant menus and product packaging to payments and authentication. But few people know where they came from or how they work on a technical level. This guide explains the full story: why QR codes were invented, who created them, and how the underlying system encodes information so quickly and reliably.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

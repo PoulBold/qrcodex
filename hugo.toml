@@ -2,9 +2,6 @@ baseURL = "https://qrcodex.net/"
 languageCode = "en-us"
 title = "QR Codex — Smarter QR Codes for the Real World"
 
-# Если папка темы называется "hugo-clarity", то:
-# theme = "hugo-clarity"
-# Если ты назвал её просто "Clarity", оставь так:
 theme = "Clarity"
 
 # Кол-во постов на странице
@@ -57,8 +54,8 @@ tag      = "tags"
 enableSearch = true
 
 # Текст на главной под логотипом
-introDescription = "Create, manage, and track QR codes for books, packaging, business cards, and offline marketing campaigns."
-introURL        = "articles/"   # куда ведёт кнопка под интро (можешь поменять или поставить false)
+introDescription = "Info about QR codes for books, packaging, business cards, and offline marketing campaigns."
+introURL        = "posts/"   # куда ведёт кнопка под интро (можешь поменять или поставить false)
 
 # SEO-описание и ключевые слова для главной
 description = "QR Codex is a practical resource about QR codes: how to create, design, and track QR codes that actually work in the real world."
@@ -127,7 +124,7 @@ google_tag_manager_id = ""      # GTM ID
 
 # Автор сайта (показывается в сайдбаре/под постами)
 [params.author]
-name = "Your Name"
+name = "QR Code Guide"
 # photo = "images/author.png"
 
 # Plausible (если захочешь использовать)
@@ -149,7 +146,7 @@ matomoSiteID  = "1"
 
 [[menu.main]]
 name   = "Home"
-url    = "/"
+url    = "/articles/"
 weight = 10
 
 [[menu.main]]
@@ -159,7 +156,7 @@ weight = 20
 
 [[menu.main]]
 name   = "QR Use Cases"
-url    = "/categories/qr-use-cases/"
+url    = "/categories/"
 weight = 30
 
 [[menu.main]]

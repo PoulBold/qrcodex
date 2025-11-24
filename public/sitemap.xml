@@ -2,10 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qrcodex.net/articles/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/barcode-scanners/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://qrcodex.net/categories/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/data-capture/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/articles/equipment-for-qr-and-barcode-scanning/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/hardware/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/qr-codes/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
   </url><url>
     <loc>https://qrcodex.net/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/categories/qr-technology/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
   </url><url>
     <loc>https://qrcodex.net/tags/</loc>
+    <lastmod>2025-11-24T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/barcodes/</loc>
+    <lastmod>2025-11-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/data-encoding/</loc>
+    <lastmod>2025-11-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/post/</loc>
+    <lastmod>2025-11-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/post/qr-codes-vs-barcodes/</loc>
+    <lastmod>2025-11-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/post/modern-uses-of-qr-codes/</loc>
+    <lastmod>2025-11-24T11:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/qr-applications/</loc>
+    <lastmod>2025-11-24T11:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/tags/qr-scanning/</loc>
+    <lastmod>2025-11-24T11:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://qrcodex.net/post/origin-and-technology-of-qr-codes/</loc>
+    <lastmod>2025-11-18T10:00:00+02:00</lastmod>
   </url>
 </urlset>
