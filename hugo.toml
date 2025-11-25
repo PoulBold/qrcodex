@@ -165,6 +165,16 @@ url  = "/about/"
 weight = 30
 
 [[menu.main]]
+name = "Support"
+url  = "/support/"
+weight = 50
+
+[[menu.main]]
+name = "FAQ"
+url  = "/faq/"
+weight = 50
+
+[[menu.main]]
 name = "Contact"
 url  = "/contact/"
 weight = 40
