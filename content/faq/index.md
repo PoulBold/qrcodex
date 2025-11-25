@@ -5,7 +5,7 @@ draft: false
 slug: "faq"
 ---
 
-Frequently Asked Questions About QR Codes, Barcodes, and Scanning
+Frequently Asked Questions About QR Codes, Barcodes, and Scanning 
 
 Welcome to the QR Codex FAQ. Here you’ll find quick, reliable answers to the questions we hear most often. If you don’t see what you’re looking for, feel free to reach out via our [Support](/support/) page.
 

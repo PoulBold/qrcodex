@@ -24,13 +24,13 @@ This includes:
 
 - A barcode scanner or imaging scanner
 - A smartphone or tablet with a built-in camera
-- A software application capable of interpreting QR code patterns
+- A software application capable of interpreting QR code patterns 
 
 Most modern smartphones can scan QR codes **without installing any app**, because QR decoding is now built directly into the native camera software. However, specialized reader apps still remain popular in certain contexts because they offer advanced features such as faster scanning, improved low-light performance, vCard support, or batch scanning.
 
 ## How the Scanning Process Works
 
-Scanning a QR code is more than just “taking a picture.”  
+Scanning a QR code is more than just “taking a picture.”   
 The process can be broken into several stages:
 
 ### 1. Image Capture

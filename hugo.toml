@@ -187,5 +187,5 @@ weight = 40
 [[menu.main]]
 name   = "Free QR Code Generator"
 url    = "https://puzzlegenerator.org/qr-code-generator"
-weight = 40
+weight = 90
 target = "_blank"
