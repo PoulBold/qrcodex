@@ -9,7 +9,7 @@ categories: ["QR Technology"]
 tags: ["qr codes", "barcode scanners", "hardware", "data capture"]
 ---
 
-# Equipment for QR and Barcode Scanning: What’s Available on the Market
+# QR and Barcode Scanning
 
 In the world of automatic identification and data capture (AIDC), having the right hardware for scanning QR codes and barcodes is vital. This article gives you a practical look at the available types of equipment, key features to evaluate, and example devices that illustrate what the market currently offers.
 

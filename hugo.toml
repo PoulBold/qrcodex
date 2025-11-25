@@ -146,18 +146,28 @@ matomoSiteID  = "1"
 
 [[menu.main]]
 name   = "Home"
-url    = "/articles/"
+url    = "/"
 weight = 10
 
 [[menu.main]]
 name   = "Articles"
+url    = "/articles/"
+weight = 20
+
+[[menu.main]]
+name   = "Posts"
 url    = "/post/"
 weight = 20
 
 [[menu.main]]
-name   = "QR Use Cases"
-url    = "/categories/"
+name = "About"
+url  = "/about/"
 weight = 30
+
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 40
 
 [[menu.main]]
 name   = "Tags"

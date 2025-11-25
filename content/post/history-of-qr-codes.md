@@ -9,7 +9,7 @@ categories: ["QR Technology"]
 tags: ["qr codes", "qr scanning", "data encoding"]
 ---
 
-# The Origin of QR Codes: History, Technology, and How They Work
+# The Origin of QR Codes
 
 QR codes have become a universal tool — from restaurant menus and product packaging to payments and authentication. But few people know where they came from or how they work on a technical level. This guide explains the full story: why QR codes were invented, who created them, and how the underlying system encodes information so quickly and reliably.
 

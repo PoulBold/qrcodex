@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on QR Codex — Smarter QR Codes for the Real World</title>
+    <link>https://qrcodex.net/categories/technology/</link>
+    <description>Recent content in Technology on QR Codex — Smarter QR Codes for the Real World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 18:00:00 +0200</lastBuildDate><atom:link href="https://qrcodex.net/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Read and Scan a QR Code: A Complete Guide</title>
+      <link>https://qrcodex.net/post/how-to-read-and-scan-a-qr-code/</link>
+      <pubDate>Thu, 20 Nov 2025 15:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/how-to-read-and-scan-a-qr-code/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;how-to-read-and-scan-a-qr-code&#34;&gt;How to Read and Scan a QR Code&lt;/h1&gt;
+&lt;p&gt;A Detailed, Human-Friendly Guide&lt;/p&gt;
+&lt;p&gt;Scanning a QR code may look like the simplest digital task of all: point your phone at a square pattern and let the magic happen. In reality, the process behind this instant decoding is surprisingly complex and involves multiple layers of optical analysis, image processing, and algorithmic reconstruction.&lt;/p&gt;
+&lt;p&gt;This guide explains in detail &lt;strong&gt;how to scan a QR code&lt;/strong&gt;, &lt;strong&gt;how the decoding process works&lt;/strong&gt;, &lt;strong&gt;why scanning apps differ in quality&lt;/strong&gt;, and &lt;strong&gt;which tools are best to use today&lt;/strong&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>What Kind of Information Can Be Stored in a QR Code?</title>
+      <link>https://qrcodex.net/post/what-information-can-a-qr-code-store/</link>
+      <pubDate>Sun, 16 Nov 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/what-information-can-a-qr-code-store/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what-inside-a-qr-code&#34;&gt;What Inside a QR Code?&lt;/h1&gt;
+&lt;p&gt;A QR code can store &lt;strong&gt;binary data&lt;/strong&gt;, which means it can theoretically contain almost any type of digital information. Unlike traditional barcodes, which only store numbers or short identifier strings, QR codes support more flexible encoding and therefore allow a wide range of content to be embedded directly in the symbol.&lt;/p&gt;
+&lt;p&gt;However, QR codes are not designed to replace full data storage systems. Their capacity is limited to roughly &lt;strong&gt;3 KB&lt;/strong&gt; when using 8-bit encoding. This limit makes it impractical to embed multimedia files (such as photos, audio, or long documents) directly inside a QR code. For that reason, images, music, videos, and larger texts are usually stored on a website or cloud service, and the QR code simply contains a &lt;strong&gt;URL&lt;/strong&gt; pointing to that content.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>What Is a QR Code? A Deep Explanation of How QR Codes Work</title>
+      <link>https://qrcodex.net/post/what-is-a-qr-code-explained/</link>
+      <pubDate>Sat, 01 Nov 2025 12:00:00 +0200</pubDate>
+      
+      <guid>https://qrcodex.net/post/what-is-a-qr-code-explained/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what-is-a-qr-code&#34;&gt;What Is a QR Code?&lt;/h1&gt;
+&lt;p&gt;A Detailed 1000-Word Explanation of How QR Codes Work&lt;/p&gt;
+&lt;p&gt;A QR code is a two-dimensional symbol that stores data both horizontally and vertically, allowing significantly more information than a traditional one-dimensional barcode. While barcodes in a grocery store contain data only along a single axis, a QR code distributes its information across a grid of tiny squares known as modules. The name “QR code” comes from “Quick Response,” reflecting the original intention that the code could be scanned and decoded extremely fast, even under demanding industrial conditions.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
