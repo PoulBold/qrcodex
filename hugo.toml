@@ -78,13 +78,14 @@ usePageBundles = false          # позже можно переключить �
 
 # Пути к ресурсам (относительно static/)
 imagesDir = "images/"
-iconsDir  = "icons/"
+iconsDir  = "/"
 fontsDir  = "fonts/"
 
 # Фолбэк-картинка для соцсетей (если у поста нет своей)
 fallBackOgImage = "images/thumbnail.png"
 
 # Логотип в хедере
+favicon = "/favicon.png"
 logo       = "logos/logo.png"
 centerLogo = false              # true — по центру, false — слева
 
