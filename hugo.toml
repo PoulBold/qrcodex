@@ -55,7 +55,7 @@ enableSearch = true
 
 # Текст на главной под логотипом
 introDescription = "Info about QR codes for books, packaging, business cards, and offline marketing campaigns."
-introURL        = "posts/"   # куда ведёт кнопка под интро (можешь поменять или поставить false)
+introURL        = "post/"   # куда ведёт кнопка под интро (можешь поменять или поставить false)
 
 # SEO-описание и ключевые слова для главной
 description = "QR Codex is a practical resource about QR codes: how to create, design, and track QR codes that actually work in the real world."
@@ -183,3 +183,9 @@ weight = 40
 name   = "Tags"
 url    = "/tags/"
 weight = 40
+
+[[menu.main]]
+name   = "Free QR Code Generator"
+url    = "https://puzzlegenerator.org/qr-code-generator"
+weight = 40
+target = "_blank"
